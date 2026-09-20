@@ -16,7 +16,6 @@ kristall-ball/
 ├── data/processed/daily_bar_consumption.csv
 ├── notebooks/inventory_forecasting_solution.ipynb
 ├── report/business_report.md
-├── video_script/video_walkthrough_outline.md
 ├── requirements.txt
 └── README.md
 ```
